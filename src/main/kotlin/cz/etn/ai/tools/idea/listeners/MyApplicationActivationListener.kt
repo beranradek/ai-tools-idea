@@ -1,4 +1,4 @@
-package com.github.beranradek.aitoolsidea.listeners
+package cz.etn.ai.tools.idea.listeners
 
 import com.intellij.openapi.application.ApplicationActivationListener
 import com.intellij.openapi.diagnostic.thisLogger

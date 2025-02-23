@@ -1,4 +1,4 @@
-package com.github.beranradek.aitoolsidea
+package cz.etn.ai.tools.idea
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

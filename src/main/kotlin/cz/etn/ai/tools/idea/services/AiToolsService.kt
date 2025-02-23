@@ -1,12 +1,12 @@
-package com.github.beranradek.aitoolsidea.services
+package cz.etn.ai.tools.idea.services
 
 import com.intellij.openapi.components.Service
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project
-import com.github.beranradek.aitoolsidea.MyBundle
+import cz.etn.ai.tools.idea.MyBundle
 
 @Service(Service.Level.PROJECT)
-class MyProjectService(project: Project) {
+class AiToolsService(project: Project) {
 
     init {
         thisLogger().info(MyBundle.message("projectService", project.name))

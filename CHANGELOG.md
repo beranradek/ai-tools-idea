@@ -1,6 +1,6 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
-# ai-tools-idea Changelog
+# AI tools IDEA Plugin Changelog
 
 ## [Unreleased]
 ### Added
